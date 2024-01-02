@@ -1,0 +1,25 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Versão em Português -->
+    <url>
+        <loc>https://www.classicmacros.com.br/?lang=pt</loc>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://www.classicmacros.com.br/?lang=pt" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.classicmacros.com.br/?lang=pt" />
+        <lastmod>2024-01-02</lastmod>
+    </url>
+
+    <!-- Outras URLs importantes em Português -->
+    <!-- Adicione mais URLs conforme necessário -->
+
+    <!-- Versão em Inglês -->
+    <url>
+        <loc>https://www.classicmacros.com.br/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.classicmacros.com.br/" />
+        <lastmod>2024-01-02</lastmod>
+    </url>
+
+    <!-- Outras URLs importantes em Inglês -->
+    <!-- Adicione mais URLs conforme necessário -->
+
+</urlset>
